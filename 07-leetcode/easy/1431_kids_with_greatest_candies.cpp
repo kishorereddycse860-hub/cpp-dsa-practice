@@ -1,4 +1,4 @@
-//1431. Kids With the Greatest Number of Candies
+//1431. Kids With the Greatest Number of Candies 
 #include<iostream>
 #include<vector>
 using namespace std;
